@@ -1,5 +1,7 @@
-# Eth-Bundle-Launch v1.2
-**Ethereum, BSC Token Bundle Launch Project Ver 1.2 Introduction - 300+ wallets supported!**
+# Introducing for new version Eth-Bundle-Launch v1.2 release
+**Ethereum, BSC Token Bundle Launch Project Ver 1.2 - 300+ wallets supported!**
+
+The new version is here! Eth-Bundle-Launch v1.2 brings improved stability, cleaner transaction handling, and optimized support for bundle buys and dispersals. Designed for speed and control, this release makes launching and managing your ETH-based bundles more efficient than ever
 
 ***Feel free to reach out to our team on [Telegram](https://t.me/trustaibotsdevteam) or [devteam@trustaibots.com](mailto:devteam@trustaibots.com) if you have any questions or want to launch***
 
